@@ -1,5 +1,4 @@
 # Project Skeleton
-testing 1
 
 ## Description
 Middmarkit is a resale platform for Middlebury College. This application is a secure online marketplace for students to buy and sell items to one another, facilitating interactions between buyer and seller and maintaining an updated page of available listings.
